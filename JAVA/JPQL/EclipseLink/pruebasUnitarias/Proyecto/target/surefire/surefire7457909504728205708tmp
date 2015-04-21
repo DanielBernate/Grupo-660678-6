@@ -1,0 +1,8 @@
+#surefire
+#Mon Apr 13 22:28:59 COT 2015
+maven.ext.class.path=C\:\\Users\\BERNATE\\Desktop\\Nueva carpeta\\netbeans\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\BERNATE\\Desktop\\EclipseLink\\pruebasUnitarias\\Proyecto
+file.encoding=UTF-8
+localRepository=C\:\\Users\\BERNATE\\.m2\\repository
+basedir=C\:\\Users\\BERNATE\\Desktop\\EclipseLink\\pruebasUnitarias\\Proyecto
+test=edu.co.sena.tiendaenlinea.integracion.jpa.entities.ProvedorTesTJPA\#buscarUnProveedor

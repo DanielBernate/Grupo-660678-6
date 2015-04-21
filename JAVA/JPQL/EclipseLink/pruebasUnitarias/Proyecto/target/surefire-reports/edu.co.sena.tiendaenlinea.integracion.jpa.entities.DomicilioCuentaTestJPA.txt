@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.co.sena.tiendaenlinea.integracion.jpa.entities.DomicilioCuentaTestJPA
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.201 sec
